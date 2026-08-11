@@ -1,3 +1,4 @@
+<img width="1917" height="1078" alt="Chinook_ERD" src="https://github.com/user-attachments/assets/a09815c0-e7ea-4d27-962d-e53f0d47ecd0" />
 # Chinook SQL Analysis
 
 A small SQL project using the Chinook sample database with MySQL.
