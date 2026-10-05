@@ -4,7 +4,7 @@ A small SQL project using the Chinook sample database with MySQL.
 
 I used this project to practice querying relational data and explore customer behavior, sales, tracks, artists, genres, and monthly revenue.
 
-## What I worked on
+## Questions explored
 
 - Sales by country
 - Top customers
@@ -22,8 +22,11 @@ I used this project to practice querying relational data and explore customer be
 
 1. Import `data/Chinook_MySql.sql` into MySQL.
 2. Select the `chinook` database.
-3. Run the SQL files in the `queries` folder.
+3. Run the nine SQL files in `queries/` in numeric order.
 
 Dataset: [Chinook Database](https://github.com/lerocha/chinook-database)
 
-<img width="1917" height="1078" alt="Chinook_ERD" src="https://github.com/user-attachments/assets/a09815c0-e7ea-4d27-962d-e53f0d47ecd0" />
+## Schema
+
+The checked-in schema diagram is [`docs/Chinook_ERD.png`](docs/Chinook_ERD.png).
+This remains a practice project using sample data.
